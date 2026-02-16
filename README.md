@@ -1,35 +1,29 @@
-### Hi there, I'm Guangjian! 👋
+## Hi, I'm a Software Engineering Intern Candidate 👋
 
-I am an **M.S. candidate in Urban Data Science at NYU**, bridging the gap between **High-Performance Engineering** and **Urban Intelligence**.
+I am a software engineer focused on building scalable, data-driven systems and clean, user-centric applications. My work sits at the intersection of backend engineering, data infrastructure, and interactive web systems, with a strong emphasis on performance, reliability, and real-world impact.
 
-My passion lies in building resilient, full-stack systems that transform complex city data into actionable insights for equity and sustainability.
+### 🛠️ Technical Stack
 
-#### 🚀 My Engineering Values
-* **Resilience > Perfection**: Real-world urban data is messy. I build systems (like my [Transit Fallback Engine](你的项目链接)) that handle uncertainty and ensure 100% continuity.
-* **Performance at Scale**: Whether it's ingesting 10-second interval GTFS feeds or visualizing 760k+ noise complaints, I optimize for sub-second latency and scalability.
-* **Tech for Equity**: I believe code determines how resources are allocated. I use geospatial analysis to uncover disparities and support people-centered decision-making.
+**Programming Languages:** Python, JavaScript, TypeScript, Java, C++, SQL
+**Web & Frontend:** React, TypeScript, Mapbox GL JS, Data Visualization
+**Backend & Data Systems:** Flask, Node.js, Express, RESTful APIs, Async I/O, ETL Pipelines
+**Databases & Cloud:** PostgreSQL, PostGIS, Redis, AWS, Docker, Linux, CI/CD
 
-#### 🛠️ Technical Stack
-**Frontend & Visualization**
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Mapbox](https://img.shields.io/badge/-Mapbox-4264fb?style=flat-square&logo=mapbox&logoColor=white)
-![Data Viz](https://img.shields.io/badge/-Data_Visualization-ff69b4?style=flat-square)
+### 🚀 What I Build
 
-**Backend & Infrastructure**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go/Java/C++](https://img.shields.io/badge/-Java_/_C++-007396?style=flat-square&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+* Scalable full-stack applications with clean architecture and maintainable APIs
+* Data-intensive systems involving geospatial data, real-time pipelines, and analytics
+* Backend services optimized for performance, reliability, and extensibility
 
-**Data & Spatial**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### 💡 Engineering Values
 
-#### 🌱 Currently
-* 🎓 Studying: Urban Data Science & AI at New York University.
-* 💼 Seeking: **Summer 2026 Software Engineering Intern** opportunities in NYC.
+* **Pragmatic scalability:** design systems that work now and scale later
+* **Clarity over complexity:** write readable, well-structured, and testable code
+* **End-to-end ownership:** from system design to deployment and optimization
+* **Data-driven thinking:** use data to guide product and engineering decisions
+* **Continuous learning:** iterate fast, ship fast, and improve with feedback
 
-[Email](mailto:jayden26017@gmail.com)
+### 🎯 Current Focus
+
+Seeking Software Engineering (SDE) Internship opportunities where I can contribute to production-grade systems, collaborate with strong engineering teams, and grow in distributed systems, backend infrastructure, and full-stack development.
+
