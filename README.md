@@ -4,10 +4,10 @@ I am a software engineer focused on building scalable, data-driven systems and c
 
 ### 🛠️ Technical Stack
 
-**Programming Languages:** Python, JavaScript, TypeScript, Java, C++, SQL
-**Web & Frontend:** React, TypeScript, Mapbox GL JS, Data Visualization
-**Backend & Data Systems:** Flask, Node.js, Express, RESTful APIs, Async I/O, ETL Pipelines
-**Databases & Cloud:** PostgreSQL, PostGIS, Redis, AWS, Docker, Linux, CI/CD
+* Programming Languages:** Python, JavaScript, TypeScript, Java, C++, SQL
+* Web & Frontend:** React, TypeScript, Mapbox GL JS, Data Visualization
+* Backend & Data Systems:** Flask, Node.js, Express, RESTful APIs, Async I/O, ETL Pipelines
+* Databases & Cloud:** PostgreSQL, PostGIS, Redis, AWS, Docker, Linux, CI/CD
 
 ### 🚀 What I Build
 
@@ -25,5 +25,4 @@ I am a software engineer focused on building scalable, data-driven systems and c
 
 ### 🎯 Current Focus
 
-Seeking Software Engineering (SDE) Internship opportunities where I can contribute to production-grade systems, collaborate with strong engineering teams, and grow in distributed systems, backend infrastructure, and full-stack development.
-
+Seeking Software Engineering (SDE) Internship opportunities where I can contribute to production-grade systems, collaborate with strong engineering teams.
