@@ -25,5 +25,3 @@ M.S. in Data Science at **NYU**, working on **LLM inference serving** and **GPU 
 | **ML** | `PyTorch` `MMDiT` `DINOv2` `LoRA` `Hugging Face` |
 | **Backend & data** | `REST APIs` `Spring Boot` `FastAPI` `Node.js` `React` `PostgreSQL` `MySQL` `MongoDB` `Redis` `Kafka` |
 | **Cloud & DevOps** | `AWS (EC2, EKS, Lambda, API Gateway, S3, IAM)` `Docker` `Terraform` `GitHub Actions` `CI/CD` `Linux` |
-
-📫 [jayden26017@gmail.com](mailto:jayden26017@gmail.com)
