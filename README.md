@@ -43,6 +43,14 @@ In review: [volcano-sh/volcano#6224](https://github.com/volcano-sh/volcano/pull/
 
 #### 🧰 Stack
 
-`Python` `Go` `C++` `CUDA` `PyTorch` `vLLM` `SGLang` `Kubernetes` `Volcano` `Slurm` `Kafka` `PostgreSQL` `Redis` `AWS` `Terraform`
+| | |
+| --- | --- |
+| **Languages** | `Python` `Go` `Java` `C++` `JavaScript` `TypeScript` `CUDA` `SQL` |
+| **LLM inference** | `vLLM` `SGLang` `AIBrix` `Semantic Router` `Mooncake` `PD Disaggregation` `KV Cache Quantization` `Speculative Decoding` `FP8` |
+| **GPU & cluster** | `CUDA Kernels` `Triton` `NCCL` `InfiniBand RDMA` `Nsight Systems` `Nsight Compute` `Kubernetes` `Volcano` `Slurm` |
+| **LLM & agents** | `LangGraph` `MCP` `Function Calling` `Multi-Agent Orchestration` `RAG` `Embeddings` `Reranking` `LLM Evals` `Guardrails` |
+| **ML** | `PyTorch` `MMDiT` `DINOv2` `LoRA` `Hugging Face` |
+| **Backend & data** | `REST APIs` `Spring Boot` `FastAPI` `Node.js` `React` `PostgreSQL` `MySQL` `MongoDB` `Redis` `Kafka` |
+| **Cloud & DevOps** | `AWS (EC2, EKS, Lambda, API Gateway, S3, IAM)` `Docker` `Terraform` `GitHub Actions` `CI/CD` `Linux` |
 
 📫 [jayden26017@gmail.com](mailto:jayden26017@gmail.com)
