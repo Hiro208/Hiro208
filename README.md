@@ -17,7 +17,7 @@ M.S. in Data Science at **New York University**. I work on **LLM inference servi
 - Citation checks, prompt-injection guardrails and human-in-the-loop approval: false acceptance **80% → 0%** on 120 eval cases
 
 **[cold-chain-monitor](https://github.com/Hiro208/cold-chain-monitor)** · Go, Kafka, PostgreSQL, Redis, EKS, Terraform
-- Telemetry from 2,000 simulated reefers through Kafka; breach detection **p99 858 ms** in the CI end-to-end test
+- Telemetry from 2,000 simulated reefers through Kafka; breach detection **p99 under 1 s** in the CI end-to-end test
 - Idempotent at-least-once ingest, Lambda alert routing, S3 archive, partner webhooks behind API Gateway
 
 ---
